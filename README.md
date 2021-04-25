@@ -1,5 +1,4 @@
 <h1><a href="miltonjginebra.github.io">MIT xPRO Portfolio Wepage</a></h1>
-<br>
 <h3>Description</h3>
 <p>This is my portfolio webpage for MIT xPRO's MERN Stack Program.</p>
 <br>
