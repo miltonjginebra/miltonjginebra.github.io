@@ -58,13 +58,13 @@ a:hover {
 }
 
 .bio-img {
-  width: 10em;
+  width: 8em;
   border-radius: 50%;
 }
 
 .bio-name {
   padding: 25px 0;
-  font-size: 1.8em;
+  font-size: 1.4em;
 }
 
 .bio {
@@ -142,8 +142,8 @@ footer a:hover {
 }
 
 @media only screen and (max-width: 600px) {
-  .profileImg {
-    width: 5.5em;
+  .bio-img {
+    width: 6em !important;
   }
 }
 
