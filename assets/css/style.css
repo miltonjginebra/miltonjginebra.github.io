@@ -39,7 +39,7 @@ a:hover {
 .projects-title-container {
   width: 100%;
   padding: 1em;
-  background: linear-gradient(-45deg, #eb8668, #e05858, #23a6d5, #23d5ab);
+  background: linear-gradient(-45deg, #4384cf, #32acd1, #21bfca, #1be0b2);
   background-size: 400% 400%;
   animation: bio-gradient 15s ease infinite;
   text-align: center !important;
@@ -65,6 +65,8 @@ a:hover {
 .bio-name {
   padding: 25px 0;
   font-size: 1.4em;
+  font-weight: 600;
+  font-family: Agustina;
 }
 
 .bio {
