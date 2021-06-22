@@ -136,25 +136,20 @@ footer a:hover {
   color: #00a499 !important;
 }
 
+.project-preview {
+  width: 100%;
+  height: 100%;
+}
+
 @media only screen and (max-width: 600px) {
   .profileImg {
-    width: 6.5em;
+    width: 5.5em;
   }
+}
 
-  .bottom-row {
-    margin: 0 0 -25px 0;
-  }
-
-  .bottom-row img {
-    max-width: 65%;
-    margin: 15px 0 0 0;
-  }
-
-  .express-logo {
-    margin-left: 10px !important;
-  }
-
-  .node-logo {
-    margin-left: 25px !important;
+@media screen and (min-width: 600px) and (max-width: 800px) {
+  .project-preview {
+    width: 70%;
+    height: 70%;
   }
 }
