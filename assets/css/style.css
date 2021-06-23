@@ -1,7 +1,6 @@
 @font-face {
   font-family: Agustina;
   src: url("../fonts/Agustina.otf") format("opentype");
-  font-display: swap;
 }
 
 body {
@@ -39,7 +38,7 @@ a:hover {
 .bio-container,
 .projects-title-container {
   width: 100%;
-  padding: 1em;
+  margin: 1em;
   background: linear-gradient(-45deg, #4384cf, #32acd1, #21bfca, #1be0b2);
   background-size: 400% 400%;
   animation: bio-gradient 15s ease infinite;
