@@ -1,7 +1,6 @@
 @font-face {
   font-family: Agustina;
   src: url("../fonts/Agustina.otf") format("opentype");
-  font-display: swap;
 }
 
 body {
